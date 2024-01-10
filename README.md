@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <ul>
     <li>💻 Code Enthusiast</li>
     <li>🌱 Knowledge Seeker</li>
-    <li>🗺️ Test</li>
+    <li>🎧 Music Buff</li>
     <li>♞ Chess Lover</li>
 </ul>
 </div>
