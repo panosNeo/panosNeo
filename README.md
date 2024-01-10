@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-neokazis-8212bb154/)
+[![Blog Badge](https://img.shields.io/badge/Blog-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+### I am Panagiotis Neokazis
+
+- 💻 Code Enthusiast
+- 🌱 Knowledge Seeker
+- ♞ Chess Lover
 
 ```php
 namespace Dev\PanosNeo;
@@ -35,5 +41,3 @@ class Skills extends SoftwareEngineer {
 }
 ```
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-neokazis-8212bb154/)
-[![Blog Badge](https://img.shields.io/badge/Blog-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
