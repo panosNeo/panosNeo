@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+```php
+namespace Dev\PanosNeo;
+
+use App\Http\Controllers\SoftwareEngineer;
+
+class Bio extends SoftwareEngineer {
+    public string $name = 'Panagiotis Neokazis';
+    public string $title = 'Software Engineer';
+    public string $location = 'Thessaloniki, GR';
+}
+
+class Skills extends SoftwareEngineer {
+    public array $languages = ['PHP', 'C#', 'JavaScript', 'TypeScript'];
+    public array $databases = ['MySQL', 'MariaDB', 'PostgreSQL'];
+    public array $frameworks = ['Laravel', 'Codeigniter', 'Livewire'];
+}
+```
+
+[![Blog Badge](https://img.shields.io/badge/Blog-d52b20?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-neokazis-8212bb154/)
