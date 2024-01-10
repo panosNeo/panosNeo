@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Blog Badge](https://img.shields.io/badge/Blog-d52b20?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-neokazis-8212bb154/)
+[![Blog Badge](https://img.shields.io/badge/Blog-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ```php
 namespace Dev\PanosNeo;
