@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="left">
    
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-neokazis-8212bb154/)
-[![Blog Badge](https://img.shields.io/badge/Blog-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Website Badge](https://img.shields.io/badge/Blog-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 <a href="https://app.daily.dev/panosneo"><img src="https://api.daily.dev/devcards/011c85229c4c4f18ac9afd5319c2fd48.png?r=yu8" width="145"  align="right" alt="Panos Neo's Dev Card"/></a>
 <h2 tab="-1">I am Panagiotis Neokazis</h2>
 <ul>
